@@ -1,8 +1,8 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##CardDekho
+CardDekho is a simple credit card validation application built with React.js. It allows users to verify the validity of credit card numbers using the Luhn algorithm.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Features
+Validate credit card numbers using the Luhn algorithm
+Support for major credit card issuers such as Visa, Mastercard, American Express, and Discover
+Intuitive and user-friendly interface
